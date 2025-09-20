@@ -16,5 +16,8 @@ connecting all the GPIOs by SoC engineer
 - chip + peripherals
 
 ### All these processes output should be equal and checked if it is equal in each steps. 
+![m](images/3.jpg)
+![m](images/2.jpg)
+![m](images/4.jpg)
  
 
